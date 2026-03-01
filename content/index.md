@@ -1,4 +1,4 @@
-# Tolkien Fan Club
+# I play games and make things
 
 ![Glacier Lake in Iceland](/images/iceland.png)
 
