@@ -7,7 +7,9 @@ dir_path_content = "./content"
 template_path = "./template.html"
 
 def main():
-    basepath = sys.argv[0] if sys.argv[0] is not None else '/'
+    basepath = '/' if len(sys.argv) == 1 else sys.argv[1]
+    
+    print('basepath: ' + basepath)
     
     print("Deleting public directory...")
     if os.path.exists(dir_path_public):
