@@ -1,6 +1,6 @@
 # I play games and make things
 
-![Glacier Lake in Iceland](/images/iceland.png)
+![Glacier Lake in Iceland](/images/iceland.jpg)
 
 I just finished the static site generator Python course on (https://www.boot.dev) **It might look like garbage because I don't know css very well**.
 
